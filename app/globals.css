@@ -10,9 +10,9 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    --foreground-rgb: 157, 103, 233;
+    --foreground-rgb: 0, 0, 0;
     --background-start-rgb: 254, 249, 231;
-    --background-end-rgb: 193, 153, 249;
+    --background-end-rgb: 0, 0, 255;
   }
 }
 

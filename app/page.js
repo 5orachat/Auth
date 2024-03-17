@@ -60,7 +60,7 @@ export default function SignIn() {
         </div>
         <button
           type="submit"
-          className="w-full bg-purple-400 text-white py-2 rounded mb-4"
+          className="w-full bg-blue-400 text-white py-2 rounded mb-4"
         >
           Sign In
         </button>{' '}
